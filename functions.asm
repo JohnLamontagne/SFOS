@@ -9,3 +9,14 @@ print_string:
 		
 	_end:
 		ret ; return
+		
+read_char:
+	mov ah,00h
+	int 16h
+	ret
+	
+print_char:
+	mov al, bl
+	mov ah, 0x0e
+	int 0x10
+	ret
