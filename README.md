@@ -1,5 +1,5 @@
 # SFOS
-Experimental OS whose progress will be relative to the progress I make in learning how to develop it (i.e., this is a self-educational project).
+Experimental OS whose progress will be relative to the progress I make in learning how to develop it (i.e., this is a project grounded in self-education).
 
 # Resources Used
 * [Youtube tutorial videos by the brilliantly helpful Nick Blundell](https://www.youtube.com/user/blundelnyt/videos)
